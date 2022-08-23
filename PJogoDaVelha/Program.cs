@@ -22,7 +22,6 @@ namespace PJogoDaVelha
 
         static void ExibirTabuleiro(string[,] m)
         {
-            //Console.Write("[");
             for (int i = 0; i < N; i++)
             {
                 Console.Write("[");
